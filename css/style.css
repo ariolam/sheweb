@@ -44,7 +44,7 @@
 }
 
 body {
-    color: #333;
+    color: #211951;
     line-height: 1.3;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
@@ -61,7 +61,6 @@ h6 {
 }
 
 img {
-    width: 100%;
     height: auto;
 }
 
@@ -87,7 +86,7 @@ a:hover {
     content: "";
     width: 80px;
     height: 2px;
-    background: #ffb600;
+    background: #836fff;
     position: absolute;
     bottom: 0;
     left: calc(50% - 40px);
@@ -174,7 +173,7 @@ a:hover {
 
 .sub-title {
     letter-spacing: 2px;
-    color: #ffb600;
+    color: #836fff;
     margin-bottom: 10px;
     font-size: 14px;
     font-weight: 600;
@@ -189,7 +188,7 @@ a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #ffb600;
+    background: #836fff;
 }
 
 .wow {
@@ -221,7 +220,7 @@ a:hover {
     transition: all 0.5s;
 }
 .navbar .navbar-nav .active {
-    color: #ffb600 !important;
+    color: #836fff !important;
 }
 
 .nav-scroll {
@@ -290,11 +289,11 @@ a:hover {
 }
 .header .buton {
     padding: 10px 30px;
-    background: #ffb600;
+    background: #836fff;
     color: #fff;
     border-radius: 30px;
     font-family: 700;
-    border: 1px solid #ffb600;
+    border: 1px solid #836fff;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     cursor: pointer;
@@ -407,7 +406,7 @@ a:hover {
 }
 .hero .feats .item .icon {
     font-size: 60px;
-    color: #ffb600;
+    color: #836fff;
     margin-bottom: 50px;
 }
 .hero .feats .item h6 {
@@ -427,7 +426,7 @@ a:hover {
     transition: padding 0.5s;
 }
 .hero .feats .item .more:hover {
-    color: #ffb600;
+    color: #836fff;
 }
 .hero .feats .item .more:hover i {
     padding-left: 5px;
@@ -445,7 +444,7 @@ a:hover {
 .about .content .item .icon {
     font-size: 15px;
     padding-right: 5px;
-    color: #ffb600;
+    color: #836fff;
 }
 .about .content .item h6 {
     font-size: 15px;
@@ -475,7 +474,7 @@ a:hover {
     height: 100%;
     top: 0;
     left: 0;
-    background: #ffb600;
+    background: #836fff;
     z-index: -1;
 }
 .about .skills .skills-progress span:after {
@@ -514,7 +513,7 @@ a:hover {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #ffb600;
+    background: #836fff;
     color: #fff;
     font-size: 30px;
     text-align: center;
@@ -566,8 +565,8 @@ a:hover {
     overflow: hidden;
 }
 .portfolio .filtering .active {
-    background: #ffb600;
-    border-color: #ffb600;
+    background: #836fff;
+    border-color: #836fff;
     color: #fff;
 }
 .portfolio .items {
@@ -652,7 +651,7 @@ a:hover {
     padding: 30px 15px;
 }
 .services .item:hover .icon {
-    background: #ffb600;
+    background: #836fff;
     color: #fff;
 }
 .services .item .icon {
@@ -662,7 +661,7 @@ a:hover {
     border-radius: 50%;
     background: #f7f7f7;
     font-size: 30px;
-    color: #ffb600;
+    color: #836fff;
     margin: 0 auto 15px;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
@@ -714,7 +713,7 @@ a:hover {
     transition: all 0.5s;
 }
 .team .titem .info a:hover {
-    background: #ffb600;
+    background: #836fff;
     color: #fff;
 }
 .team .owl-carousel .owl-stage-outer {
@@ -762,7 +761,7 @@ a:hover {
     left: 100px;
 }
 .numbers .item h2 {
-    color: #ffb600;
+    color: #836fff;
     font-size: 50px;
     font-weight: 700;
     font-family: inherit;
@@ -797,7 +796,7 @@ a:hover {
 }
 .price .item.active .order .button,
 .price .item:hover .order .button {
-    background: #ffb600;
+    background: #836fff;
 }
 .price .item .type {
     font-weight: 800;
@@ -884,7 +883,7 @@ a:hover {
 .clients .citem li {
     font-size: 12px;
     display: inline-block;
-    color: #ffb600;
+    color: #836fff;
 }
 
 /* ----------------------------------------------------------------
@@ -910,7 +909,7 @@ a:hover {
 }
 .blog .pitem .content .tag {
     font-size: 12px;
-    color: #ffb600;
+    color: #836fff;
     margin-bottom: 15px;
 }
 .blog .pitem .content h5 {
@@ -974,7 +973,7 @@ a:hover {
     transition: all 0.5s;
 }
 .contact .form input[type="submit"]:hover {
-    background: #ffb600;
+    background: #836fff;
 }
 .contact .themap {
     background: #222;
@@ -996,7 +995,7 @@ a:hover {
 }
 .contact .themap .map-toggle i {
     margin-right: 5px;
-    color: #ffb600;
+    color: #836fff;
     cursor: pointer;
 }
 .contact .themap .map-opened:after {
@@ -1032,7 +1031,7 @@ footer .social-icon a {
     transition: all 0.5s;
 }
 footer .social-icon a:hover {
-    background: #ffb600;
+    background: #836fff;
 }
 footer p {
     font-weight: 300;
