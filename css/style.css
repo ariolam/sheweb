@@ -60,6 +60,10 @@ h6 {
     font-family: "Raleway", sans-serif;
 }
 
+h4,
+h6 {
+    color: #211951;
+}
 img {
     height: auto;
 }
@@ -132,7 +136,7 @@ a:hover {
 }
 
 .bg-gray {
-    background: #f7f7f7;
+    background: #f0f3ff;
 }
 .bg-gray .owl-theme .owl-dots .owl-dot span {
     background: #777;
@@ -239,10 +243,10 @@ a:hover {
     transform: translateY(100px);
 }
 .nav-scroll .icon-bar {
-    color: #222;
+    color: #211951;
 }
 .nav-scroll .navbar-nav .nav-link {
-    color: #222;
+    color: #211951;
 }
 
 .logo {
@@ -551,10 +555,10 @@ a:hover {
 }
 .portfolio .filtering span {
     padding: 8px 22px;
-    background: #f7f7f7;
-    border: 1px solid #eee;
+    background: #f0f3ff;
+    border: 1px solid #f0f3ff;
     margin: 0 5px;
-    color: #777;
+    color: #211951;
     letter-spacing: 1px;
     font-weight: 600;
     font-size: 13px;
@@ -565,8 +569,8 @@ a:hover {
     overflow: hidden;
 }
 .portfolio .filtering .active {
-    background: #836fff;
-    border-color: #836fff;
+    background: #15f5ba;
+    border-color: #15f5ba;
     color: #fff;
 }
 .portfolio .items {
@@ -761,7 +765,7 @@ a:hover {
     left: 100px;
 }
 .numbers .item h2 {
-    color: #836fff;
+    color: #15f5ba;
     font-size: 50px;
     font-weight: 700;
     font-family: inherit;
@@ -796,7 +800,7 @@ a:hover {
 }
 .price .item.active .order .button,
 .price .item:hover .order .button {
-    background: #836fff;
+    background: #15f5ba;
 }
 .price .item .type {
     font-weight: 800;
@@ -806,7 +810,7 @@ a:hover {
     width: 110px;
     height: 110px;
     border-radius: 50%;
-    background: #f7f7f7;
+    background: #f0f3ff;
     margin: 30px auto 15px;
     -webkit-box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.07);
     box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.07);
@@ -841,7 +845,7 @@ a:hover {
 .price .item .order .button {
     padding: 10px 30px;
     border-radius: 30px;
-    background: #222;
+    background: #211951;
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 0.5px;
@@ -963,7 +967,7 @@ a:hover {
 }
 .contact .form input[type="submit"] {
     padding: 10px 30px;
-    background: #222;
+    background: #211951;
     color: #fff;
     font-size: 14px;
     border: 0;
@@ -973,7 +977,7 @@ a:hover {
     transition: all 0.5s;
 }
 .contact .form input[type="submit"]:hover {
-    background: #836fff;
+    background: #15f5ba;
 }
 .contact .themap {
     background: #222;
@@ -1062,7 +1066,7 @@ footer p {
     }
     .navbar .nav-link {
         margin: 10px auto !important;
-        color: #222 !important;
+        color: #211951;
     }
 
     .half-imgl,
